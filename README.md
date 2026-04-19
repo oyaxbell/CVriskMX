@@ -16,6 +16,12 @@ Americas, 2026).
 For clinical use consider the ShinyApp:
 <https://antonio-villa-lab.shinyapps.io/CKD_RISK_APP/>
 
+<table>
+
+<tr>
+
+<td>
+
 ## Authors
 
 Omar Yaxmehen Bello-Chavolla, Daniel Ramírez-García, Neftali Eduardo
@@ -23,6 +29,20 @@ Antonio-Villa <https://bellolab.org>
 
 Instituto Nacional de Geriatría, Mexico City, Mexico Instituto Nacional
 de Cardiología Ignacio Chávez, Mexico City, Mexico
+
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oyaxbell)
+
+</td>
+
+<td width="200">
+
+<img src="inst/logo/logo.png" width="160"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ------------------------------------------------------------------------
 
