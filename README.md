@@ -7,14 +7,37 @@
 
 <!-- badges: end -->
 
-The goal of CVriskMX is to …
+The `CVriskMX` package includes a set of functions to optimize
+cardiovascular risk prediction for Mexican adults. This package
+currently contains a function to estimate recalibrated risk for fatal
+cardiovascular disease using Globorisk (The Lancet Regional Health -
+Americas, 2026).
+
+## Authors
+
+Omar Yaxmehen Bello-Chavolla, Daniel Ramírez-García, Neftali Eduardo
+Antonio-Villa <https://bellolab.org>
+
+Instituto Nacional de Geriatría, Mexico City, Mexico Instituto Nacional
+de Cardiología Ignacio Chávez, Mexico City, Mexico
+
+------------------------------------------------------------------------
 
 ## Installation
 
-You can install the development version of CVriskMX like so:
+You can install the development version of `CVriskMX` from Github
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.package("remotes")   #In case you have not installed it.
+remotes::install_github("oyaxbell/CVriskMX")
+```
+
+Alternatively, you will soon be able install the released version of
+`CVriskMX` from [CRAN](https://CRAN.R-project.org) with:
+
+``` r
+# not approved yet
+# install.packages("CVriskMX")
 ```
 
 ## Example
