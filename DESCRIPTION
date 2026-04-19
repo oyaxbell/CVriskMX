@@ -1,11 +1,16 @@
 Type: Package
 Package: CVriskMX
-Title: What the Package Does (Title Case)
+Title: Estimation of cardiovascular risk for Mexican adults
 Version: 0.1.0
-Authors@R: 
-    person("Jane", "Doe", , "jane@example.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Authors@R: c(
+    person("Omar Yaxmehen", "Bello-Chavolla", , "oyaxbell@yahoo.com.mx", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0003-3093-937X")),
+    person("Daniel", "Ramírez-García", , "daaniel.raamirez93@gmail.com", role = "ctb",
+           comment = c(ORCID = "https://orcid.org/0000-0002-6899-246X")),
+    person("Neftali Eduardo", "Antonio-Villa", , "nefoantonio@hotmail.com", role = "ctb",
+           comment = c(ORCID = "https://orcid.org/0000-0002-6879-1078"))
+  )
+Description: The CVriskMX package includes a set of functions to optimize cardiovascular risk 		prediction for Mexican adults. This package currently contains a function to estimate 		recalibrated risk for fatal cardiovascular disease using Globorisk (The Lancet Regional Health - Americas, 2026).
 License: MIT + file LICENSE
 Imports:
     globorisk
