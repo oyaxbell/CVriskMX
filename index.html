@@ -79,23 +79,35 @@
 </h1></div>
 <!-- badges: start -->
 <!-- badges: end -->
-<p>The goal of CVriskMX is to …</p>
+<p>The <code>CVriskMX</code> package includes a set of functions to optimize cardiovascular risk prediction for Mexican adults. This package currently contains a function to estimate recalibrated risk for fatal cardiovascular disease using Globorisk (The Lancet Regional Health - Americas, 2026).</p>
+<div class="section level2">
+<h2 id="authors">Authors<a class="anchor" aria-label="anchor" href="#authors"></a>
+</h2>
+<p>Omar Yaxmehen Bello-Chavolla, Daniel Ramírez-García, Neftali Eduardo Antonio-Villa <a href="https://bellolab.org" class="external-link uri">https://bellolab.org</a></p>
+<p>Instituto Nacional de Geriatría, Mexico City, Mexico Instituto Nacional de Cardiología Ignacio Chávez, Mexico City, Mexico</p>
+<hr>
+</div>
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
-<p>You can install the development version of CVriskMX like so:</p>
+<p>You can install the development version of <code>CVriskMX</code> from Github</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="co"># FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="co"># install.package("remotes")   #In case you have not installed it.</span></span>
+<span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"oyaxbell/CVriskMX"</span><span class="op">)</span></span></code></pre></div>
+<p>Alternatively, you will soon be able install the released version of <code>CVriskMX</code> from <a href="https://CRAN.R-project.org" class="external-link">CRAN</a> with:</p>
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="co"># not approved yet</span></span>
+<span><span class="co"># install.packages("CVriskMX")</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="example">Example<a class="anchor" aria-label="anchor" href="#example"></a>
 </h2>
 <p>This is a basic example which shows you how to solve a common problem:</p>
-<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/oyaxbell/CVriskMX" class="external-link">CVriskMX</a></span><span class="op">)</span></span>
 <span><span class="co">## basic example code</span></span></code></pre></div>
 <p>What is special about using <code>README.Rmd</code> instead of just <code>README.md</code>? You can include R chunks like so:</p>
-<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">cars</span><span class="op">)</span></span>
 <span><span class="co">#&gt;      speed           dist       </span></span>
 <span><span class="co">#&gt;  Min.   : 4.0   Min.   :  2.00  </span></span>
