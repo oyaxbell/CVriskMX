@@ -76,7 +76,8 @@ risk1 <- globorisk_recalib(
   sbp = 120,
   tcol_mmol = 5.2,
   diab = 0,         # no diabetes
-  smoke = 1         # smoker)
+  smoke = 1         # smoker
+  )
 
 risk1
 
@@ -87,7 +88,8 @@ risk2 <- globorisk_recalib(
   sbp = 140,
   tcol_mmol = 6.0,
   diab = 1,         # diabetes
-  smoke = 0         # non-smoker)
+  smoke = 0         # non-smoker
+  )
 
 risk2
 
