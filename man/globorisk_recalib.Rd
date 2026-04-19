@@ -24,8 +24,8 @@ Numeric vector with recalibrated risk (%) rounded to 3 decimals
 }
 \description{
 Computes recalibrated 10-year cardiovascular risk based on the
-Globorisk model with parameters specific for Mexico recalibrated.
-using data from the Mexico City Prospective Study
+Globorisk model with parameters specific for Mexico recalibrated
+using data from the Mexico City Prospective Study.
 }
 \details{
 Authors: Daniel Ramírez-García, Omar Yaxmehen Bello-Chavolla and
