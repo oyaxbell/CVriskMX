@@ -13,6 +13,9 @@ currently contains a function to estimate recalibrated risk for fatal
 cardiovascular disease using Globorisk (The Lancet Regional Health -
 Americas, 2026).
 
+For clinical use consider the ShinyApp:
+<https://antonio-villa-lab.shinyapps.io/CKD_RISK_APP/>
+
 ## Authors
 
 Omar Yaxmehen Bello-Chavolla, Daniel Ramírez-García, Neftali Eduardo
