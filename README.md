@@ -27,8 +27,9 @@ For clinical use consider the ShinyApp:
 Omar Yaxmehen Bello-Chavolla, Daniel Ramírez-García, Neftali Eduardo
 Antonio-Villa <https://bellolab.org>
 
-Instituto Nacional de Geriatría, Mexico City, Mexico Instituto Nacional
-de Cardiología Ignacio Chávez, Mexico City, Mexico
+Instituto Nacional de Geriatría, Mexico City, Mexico
+
+Instituto Nacional de Cardiología Ignacio Chávez, Mexico City, Mexico
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oyaxbell)
 
