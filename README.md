@@ -11,7 +11,8 @@ The `CVriskMX` package includes a set of functions to optimize
 cardiovascular risk prediction for Mexican adults. This package
 currently contains a function to estimate recalibrated risk for fatal
 cardiovascular disease using Globorisk (The Lancet Regional Health -
-Americas, 2026).
+Americas, 2026), SCORE2-Diabetes (The Lancet Regional Health -
+Americas, 2026), and the PRECARDIAB score.
 
 For clinical use consider the ShinyApp:
 <https://antonio-villa-lab.shinyapps.io/CKD_RISK_APP/>
