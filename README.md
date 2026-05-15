@@ -123,3 +123,5 @@ risk of fatal cardiovascular disease: a prospective, observational,
 population-based cohort analysis of adults in Mexico City. Lancet Reg
 Health Am. 2026 Feb 16;56:101403. doi: 10.1016/j.lana.2026.101403. PMID:
 41732703; PMCID: PMC12925590.
+
+Perezalonso-Espinosa J, Díaz-Sánchez JP, Ramírez-García D, Carrillo-Herrera KB, Cabrera-Quintana LA, Fermín-Martínez CA, Basile-Álvarez MR, Malagón-Liceaga A, Berumen J, Kuri-Morales P, Tapia-Conyer R, Alegre-Díaz J, Antonio-Villa NE, Danaei G, Seiglie JA, Bello-Chavolla OY. Assessment of fatal cardiovascular disease risk using data-driven diabetes subgroups and SCORE2-Diabetes: a prospective, observational, population-based analysis of adults with diabetes in Mexico City. Lancet Reg Health Am. 2026 Apr 22;59:101477. doi: 10.1016/j.lana.2026.101477. PMID: 42058446; PMCID: PMC13123577.
